@@ -2,10 +2,10 @@
 
 A modern, feature-rich contacts management application built with React Native that allows users to view their device contacts and add favorites with personalized messages.
 
-![Image](https://github.com/user-attachments/assets/bac6ab3a-5790-47dd-a8cb-bbd52497592d)
-![Image](https://github.com/user-attachments/assets/eb016afc-4a2e-4f01-b8f4-556eeba393e5)
-![Image](https://github.com/user-attachments/assets/36b85223-7649-4ccf-9ac4-d6cf96bcf885)
-![Image](https://github.com/user-attachments/assets/9b9791e3-f3d1-4e9b-98c6-cf3d8cbd333f)
+![Image](https://github.com/user-attachments/assets/4e031cec-facd-4dbd-a595-2e0e3fc3faca)
+![Image](https://github.com/user-attachments/assets/689e3dac-f8ae-4e5d-b64a-df9f528ecc72)
+![Image](https://github.com/user-attachments/assets/9dcbc817-d258-451b-a9bf-eecd31bff847)
+![Image](https://github.com/user-attachments/assets/f93a7619-7ab7-48b1-b64c-030db4315875)
 
 
 ## ✨ Features
