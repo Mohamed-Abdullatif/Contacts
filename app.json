@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "ContactsApp",
+    "slug": "contacts-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSContactsUsageDescription": "This app needs access to contacts to display them in the app."
+      },
+      "bundleIdentifier": "com.anonymous.contactsapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": [
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_CONTACTS"
+      ],
+      "package": "com.anonymous.contactsapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
